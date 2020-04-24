@@ -6,6 +6,6 @@ title : "Welcome to our second slide"
 
 ---
 
-Your text
+float like a butterfly and sting like a bee
 
 use the left arrow to go back
